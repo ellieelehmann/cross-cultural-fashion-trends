@@ -1,0 +1,260 @@
+# Cross-Cultural Fashion Trend Mapping
+# Case-study configuration.
+#
+# Central research question:
+#   "Does the same fashion aesthetic mean the same thing across cultures?"
+#
+# Each aesthetic groups regional/linguistic equivalents used to search,
+# tag, and discuss it online. All keyword variants map back to a single
+# canonical aesthetic so that trend and sentiment signals from different
+# languages can be compared on the same axes.
+
+primary_aesthetic: quiet_luxury
+
+aesthetics:
+  quiet_luxury:
+    display_name: Quiet Luxury
+    description: >
+      Restrained, high-quality, logo-averse luxury aesthetic often
+      associated with "old money" dressing.
+    markets:
+      - market: US
+        country_code: US
+        language: en
+        keywords:
+          - quiet luxury
+          - old money aesthetic
+          - stealth wealth
+          - understated luxury
+      - market: FR
+        country_code: FR
+        language: fr
+        keywords:
+          - luxe discret
+          - style old money
+          - luxe silencieux
+      - market: KR
+        country_code: KR
+        language: ko
+        keywords:
+          - 올드머니룩
+          - 조용한 럭셔리
+          - 미니멀 럭셔리
+      - market: JP
+        country_code: JP
+        language: ja
+        keywords:
+          - クワイエットラグジュアリー
+          - オールドマネー ファッション
+          - 上品カジュアル
+
+    # Real quiet-luxury brands to track across every market.
+    # `aliases` provides the search string in each market's language so we
+    # capture native transliterations (e.g. "The Row" -> "더 로우" in Korean).
+    brands:
+      - name: The Row
+        origin: US
+        aliases:
+          en: The Row
+          fr: The Row
+          ko: 더 로우
+          ja: ザ・ロウ
+      - name: Loro Piana
+        origin: IT
+        aliases:
+          en: Loro Piana
+          fr: Loro Piana
+          ko: 로로피아나
+          ja: ロロ・ピアーナ
+      - name: Brunello Cucinelli
+        origin: IT
+        aliases:
+          en: Brunello Cucinelli
+          fr: Brunello Cucinelli
+          ko: 브루넬로 쿠치넬리
+          ja: ブルネロ クチネリ
+      - name: Khaite
+        origin: US
+        aliases:
+          en: Khaite
+          fr: Khaite
+          ko: 카이트
+          ja: ケイト
+      - name: Toteme
+        origin: SE
+        aliases:
+          en: Toteme
+          fr: Toteme
+          ko: 토템
+          ja: トーテム
+      - name: Lemaire
+        origin: FR
+        aliases:
+          en: Lemaire
+          fr: Lemaire
+          ko: 르메르
+          ja: ルメール
+      - name: Hermes
+        origin: FR
+        aliases:
+          en: Hermes
+          fr: Hermès
+          ko: 에르메스
+          ja: エルメス
+      - name: Max Mara
+        origin: IT
+        aliases:
+          en: Max Mara
+          fr: Max Mara
+          ko: 막스마라
+          ja: マックスマーラ
+      - name: Jil Sander
+        origin: DE
+        aliases:
+          en: Jil Sander
+          fr: Jil Sander
+          ko: 질 샌더
+          ja: ジル サンダー
+      - name: Auralee
+        origin: JP
+        aliases:
+          en: Auralee
+          fr: Auralee
+          ko: 오랄리
+          ja: オーラリー
+
+  punk_grunge:
+    display_name: Punk / Grunge
+    description: >
+      DIY, subcultural, anti-establishment fashion aesthetic drawing on
+      1970s British punk and 1990s Pacific Northwest grunge. Ripped,
+      layered, deconstructed, dark, and deliberately imperfect.
+    markets:
+      - market: US
+        country_code: US
+        language: en
+        keywords:
+          - grunge aesthetic
+          - punk fashion
+          - 90s grunge
+          - riot grrrl style
+      - market: FR
+        country_code: FR
+        language: fr
+        keywords:
+          - style grunge
+          - mode punk
+          - esthétique grunge
+      - market: KR
+        country_code: KR
+        language: ko
+        keywords:
+          - 그런지룩
+          - 펑크 패션
+          - 그런지 패션
+      - market: JP
+        country_code: JP
+        language: ja
+        keywords:
+          - グランジファッション
+          - パンクファッション
+          - グランジ
+
+    brands:
+      - name: Rick Owens
+        origin: US
+        aliases:
+          en: Rick Owens
+          fr: Rick Owens
+          ko: 릭 오웬스
+          ja: リック オウエンス
+      - name: Vivienne Westwood
+        origin: UK
+        aliases:
+          en: Vivienne Westwood
+          fr: Vivienne Westwood
+          ko: 비비안 웨스트우드
+          ja: ヴィヴィアン ウエストウッド
+      - name: Comme des Garcons
+        origin: JP
+        aliases:
+          en: Comme des Garcons
+          fr: Comme des Garçons
+          ko: 꼼데가르송
+          ja: コム デ ギャルソン
+      - name: Undercover
+        origin: JP
+        aliases:
+          en: Undercover
+          fr: Undercover
+          ko: 언더커버
+          ja: アンダーカバー
+      - name: Yohji Yamamoto
+        origin: JP
+        aliases:
+          en: Yohji Yamamoto
+          fr: Yohji Yamamoto
+          ko: 요지 야마모토
+          ja: ヨウジヤマモト
+      - name: Ann Demeulemeester
+        origin: BE
+        aliases:
+          en: Ann Demeulemeester
+          fr: Ann Demeulemeester
+          ko: 앤 드뮐미스터
+          ja: アン ドゥムルメステール
+      - name: Chrome Hearts
+        origin: US
+        aliases:
+          en: Chrome Hearts
+          fr: Chrome Hearts
+          ko: 크롬하츠
+          ja: クロムハーツ
+      - name: Raf Simons
+        origin: BE
+        aliases:
+          en: Raf Simons
+          fr: Raf Simons
+          ko: 라프 시몬스
+          ja: ラフ シモンズ
+      - name: Marc Jacobs
+        origin: US
+        aliases:
+          en: Marc Jacobs
+          fr: Marc Jacobs
+          ko: 마크 제이콥스
+          ja: マーク ジェイコブス
+      - name: Alexander McQueen
+        origin: UK
+        aliases:
+          en: Alexander McQueen
+          fr: Alexander McQueen
+          ko: 알렉산더 맥퀸
+          ja: アレキサンダー マックイーン
+
+# Time window used across all sources for the trend layer.
+time_window:
+  start: "2023-01-01"
+  end: "2026-06-30"
+  granularity: month
+
+# Which text sources feed the NLP layer. Reddit and public search-result
+# snippets are treated as first-class sources; social platforms with
+# fragile scraping (TikTok, Instagram) are optional enrichment only.
+text_sources:
+  reddit:
+    enabled: true
+    subreddits:
+      - femalefashionadvice
+      - malefashionadvice
+      - streetwear
+      - fashion
+      - koreanfashion
+      - japanesefashion
+    post_limit_per_keyword: 50
+  youtube:
+    enabled: false
+    note: Requires YouTube Data API key.
+  news:
+    enabled: true
+    note: Uses NewsAPI or a static curated set for fashion editorial voice.

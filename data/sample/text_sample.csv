@@ -1,0 +1,571 @@
+post_id,aesthetic,market,language,keyword,text,sentiment_hint,score,num_comments,created_utc
+s000001,quiet_luxury,US,en,quiet luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,451,61,1744524000.0
+s000002,quiet_luxury,US,en,quiet luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,481,74,1721854800.0
+s000003,quiet_luxury,US,en,quiet luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,433,8,1732748400.0
+s000004,quiet_luxury,US,en,quiet luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,366,97,1735614000.0
+s000005,quiet_luxury,US,en,quiet luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,276,115,1744462800.0
+s000006,quiet_luxury,US,en,quiet luxury,The stealth wealth thing is exhausting. It's just beige.,negative,484,12,1730055600.0
+s000007,quiet_luxury,US,en,quiet luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,144,98,1713675600.0
+s000008,quiet_luxury,US,en,quiet luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,375,76,1764453600.0
+s000009,quiet_luxury,US,en,quiet luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,62,35,1704362400.0
+s000010,quiet_luxury,US,en,quiet luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,388,115,1735606800.0
+s000011,quiet_luxury,US,en,quiet luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,492,103,1758549600.0
+s000012,quiet_luxury,US,en,quiet luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,488,29,1724331600.0
+s000013,quiet_luxury,US,en,quiet luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,397,77,1708689600.0
+s000014,quiet_luxury,US,en,quiet luxury,The stealth wealth thing is exhausting. It's just beige.,negative,278,64,1717812000.0
+s000015,quiet_luxury,US,en,quiet luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,462,53,1720656000.0
+s000016,quiet_luxury,US,en,quiet luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,19,6,1718928000.0
+s000017,quiet_luxury,US,en,quiet luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,25,44,1763377200.0
+s000018,quiet_luxury,US,en,quiet luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,337,91,1761966000.0
+s000019,quiet_luxury,US,en,quiet luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,387,0,1745010000.0
+s000020,quiet_luxury,US,en,quiet luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,369,47,1750122000.0
+s000021,quiet_luxury,US,en,quiet luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,25,108,1727827200.0
+s000022,quiet_luxury,US,en,quiet luxury,The stealth wealth thing is exhausting. It's just beige.,negative,311,28,1710399600.0
+s000023,quiet_luxury,US,en,quiet luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,3,114,1731718800.0
+s000024,quiet_luxury,US,en,quiet luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,338,63,1720450800.0
+s000025,quiet_luxury,US,en,quiet luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,201,83,1751241600.0
+s000026,quiet_luxury,US,en,quiet luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,336,30,1742090400.0
+s000027,quiet_luxury,US,en,quiet luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,426,62,1729839600.0
+s000028,quiet_luxury,US,en,quiet luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,426,108,1752573600.0
+s000029,quiet_luxury,US,en,quiet luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,295,53,1748160000.0
+s000030,quiet_luxury,US,en,quiet luxury,The stealth wealth thing is exhausting. It's just beige.,negative,138,65,1711191600.0
+s000031,quiet_luxury,US,en,quiet luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,94,81,1757988000.0
+s000032,quiet_luxury,US,en,quiet luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,171,53,1746064800.0
+s000033,quiet_luxury,US,en,quiet luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,403,64,1730494800.0
+s000034,quiet_luxury,US,en,quiet luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,148,93,1743829200.0
+s000035,quiet_luxury,US,en,quiet luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,69,14,1737288000.0
+s000036,quiet_luxury,US,en,quiet luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,498,102,1715706000.0
+s000037,quiet_luxury,US,en,quiet luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,298,7,1749762000.0
+s000038,quiet_luxury,US,en,quiet luxury,The stealth wealth thing is exhausting. It's just beige.,negative,457,26,1734865200.0
+s000039,quiet_luxury,US,en,quiet luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,68,12,1725458400.0
+s000040,quiet_luxury,US,en,quiet luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,34,42,1709200800.0
+s000041,quiet_luxury,US,en,quiet luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,9,36,1738562400.0
+s000042,quiet_luxury,US,en,quiet luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,317,105,1763989200.0
+s000043,quiet_luxury,US,en,quiet luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,210,106,1732010400.0
+s000044,quiet_luxury,US,en,quiet luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,376,60,1763956800.0
+s000045,quiet_luxury,US,en,quiet luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,142,41,1765036800.0
+s000046,quiet_luxury,US,en,quiet luxury,The stealth wealth thing is exhausting. It's just beige.,negative,118,67,1728180000.0
+s000047,quiet_luxury,US,en,quiet luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,454,36,1759482000.0
+s000048,quiet_luxury,US,en,quiet luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,371,25,1765292400.0
+s000049,quiet_luxury,US,en,old money aesthetic,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,327,3,1742662800.0
+s000050,quiet_luxury,US,en,old money aesthetic,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,121,35,1757232000.0
+s000051,quiet_luxury,US,en,old money aesthetic,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,78,41,1715072400.0
+s000052,quiet_luxury,US,en,old money aesthetic,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,142,7,1704247200.0
+s000053,quiet_luxury,US,en,old money aesthetic,Understated luxury > logo mania. My closet finally feels like mine.,positive,396,70,1719676800.0
+s000054,quiet_luxury,US,en,old money aesthetic,The stealth wealth thing is exhausting. It's just beige.,negative,219,103,1743634800.0
+s000055,quiet_luxury,US,en,old money aesthetic,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,497,70,1763128800.0
+s000056,quiet_luxury,US,en,old money aesthetic,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,407,80,1720036800.0
+s000057,quiet_luxury,US,en,old money aesthetic,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,394,56,1720753200.0
+s000058,quiet_luxury,US,en,old money aesthetic,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,281,38,1714712400.0
+s000059,quiet_luxury,US,en,old money aesthetic,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,326,38,1730602800.0
+s000060,quiet_luxury,US,en,old money aesthetic,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,256,112,1752638400.0
+s000061,quiet_luxury,US,en,old money aesthetic,Understated luxury > logo mania. My closet finally feels like mine.,positive,18,112,1712750400.0
+s000062,quiet_luxury,US,en,old money aesthetic,The stealth wealth thing is exhausting. It's just beige.,negative,52,35,1750132800.0
+s000063,quiet_luxury,US,en,old money aesthetic,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,123,68,1707181200.0
+s000064,quiet_luxury,US,en,old money aesthetic,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,228,31,1765242000.0
+s000065,quiet_luxury,US,en,old money aesthetic,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,156,5,1753196400.0
+s000066,quiet_luxury,US,en,old money aesthetic,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,56,76,1757034000.0
+s000067,quiet_luxury,US,en,old money aesthetic,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,31,107,1752404400.0
+s000068,quiet_luxury,US,en,old money aesthetic,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,104,117,1732046400.0
+s000069,quiet_luxury,US,en,old money aesthetic,Understated luxury > logo mania. My closet finally feels like mine.,positive,197,27,1734598800.0
+s000070,quiet_luxury,US,en,old money aesthetic,The stealth wealth thing is exhausting. It's just beige.,negative,1,34,1713528000.0
+s000071,quiet_luxury,US,en,old money aesthetic,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,431,19,1729825200.0
+s000072,quiet_luxury,US,en,old money aesthetic,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,254,32,1710892800.0
+s000073,quiet_luxury,US,en,old money aesthetic,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,167,49,1705932000.0
+s000074,quiet_luxury,US,en,old money aesthetic,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,390,56,1738324800.0
+s000075,quiet_luxury,US,en,old money aesthetic,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,130,27,1737075600.0
+s000076,quiet_luxury,US,en,old money aesthetic,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,121,109,1741251600.0
+s000077,quiet_luxury,US,en,old money aesthetic,Understated luxury > logo mania. My closet finally feels like mine.,positive,341,40,1757772000.0
+s000078,quiet_luxury,US,en,old money aesthetic,The stealth wealth thing is exhausting. It's just beige.,negative,166,29,1750312800.0
+s000079,quiet_luxury,US,en,old money aesthetic,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,25,59,1734145200.0
+s000080,quiet_luxury,US,en,old money aesthetic,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,356,22,1757854800.0
+s000081,quiet_luxury,US,en,old money aesthetic,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,24,38,1741579200.0
+s000082,quiet_luxury,US,en,old money aesthetic,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,459,10,1705291200.0
+s000083,quiet_luxury,US,en,old money aesthetic,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,94,97,1762041600.0
+s000084,quiet_luxury,US,en,old money aesthetic,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,56,84,1713571200.0
+s000085,quiet_luxury,US,en,old money aesthetic,Understated luxury > logo mania. My closet finally feels like mine.,positive,121,10,1733680800.0
+s000086,quiet_luxury,US,en,old money aesthetic,The stealth wealth thing is exhausting. It's just beige.,negative,295,82,1718470800.0
+s000087,quiet_luxury,US,en,old money aesthetic,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,3,33,1734829200.0
+s000088,quiet_luxury,US,en,old money aesthetic,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,309,54,1737248400.0
+s000089,quiet_luxury,US,en,old money aesthetic,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,386,119,1759809600.0
+s000090,quiet_luxury,US,en,old money aesthetic,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,127,29,1722214800.0
+s000091,quiet_luxury,US,en,old money aesthetic,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,227,116,1738724400.0
+s000092,quiet_luxury,US,en,old money aesthetic,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,492,9,1760637600.0
+s000093,quiet_luxury,US,en,old money aesthetic,Understated luxury > logo mania. My closet finally feels like mine.,positive,406,17,1749722400.0
+s000094,quiet_luxury,US,en,old money aesthetic,The stealth wealth thing is exhausting. It's just beige.,negative,399,13,1738141200.0
+s000095,quiet_luxury,US,en,old money aesthetic,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,108,61,1722535200.0
+s000096,quiet_luxury,US,en,old money aesthetic,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,159,98,1743595200.0
+s000097,quiet_luxury,US,en,stealth wealth,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,15,88,1757642400.0
+s000098,quiet_luxury,US,en,stealth wealth,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,10,84,1727949600.0
+s000099,quiet_luxury,US,en,stealth wealth,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,362,101,1745035200.0
+s000100,quiet_luxury,US,en,stealth wealth,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,369,99,1722891600.0
+s000101,quiet_luxury,US,en,stealth wealth,Understated luxury > logo mania. My closet finally feels like mine.,positive,445,17,1711789200.0
+s000102,quiet_luxury,US,en,stealth wealth,The stealth wealth thing is exhausting. It's just beige.,negative,63,93,1718816400.0
+s000103,quiet_luxury,US,en,stealth wealth,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,346,7,1745726400.0
+s000104,quiet_luxury,US,en,stealth wealth,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,254,14,1753419600.0
+s000105,quiet_luxury,US,en,stealth wealth,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,2,110,1720587600.0
+s000106,quiet_luxury,US,en,stealth wealth,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,496,69,1738454400.0
+s000107,quiet_luxury,US,en,stealth wealth,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,64,68,1728234000.0
+s000108,quiet_luxury,US,en,stealth wealth,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,440,49,1709776800.0
+s000109,quiet_luxury,US,en,stealth wealth,Understated luxury > logo mania. My closet finally feels like mine.,positive,311,21,1714406400.0
+s000110,quiet_luxury,US,en,stealth wealth,The stealth wealth thing is exhausting. It's just beige.,negative,26,53,1748937600.0
+s000111,quiet_luxury,US,en,stealth wealth,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,148,41,1712336400.0
+s000112,quiet_luxury,US,en,stealth wealth,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,418,22,1764874800.0
+s000113,quiet_luxury,US,en,stealth wealth,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,298,18,1707264000.0
+s000114,quiet_luxury,US,en,stealth wealth,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,437,100,1756792800.0
+s000115,quiet_luxury,US,en,stealth wealth,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,305,22,1742626800.0
+s000116,quiet_luxury,US,en,stealth wealth,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,198,90,1736784000.0
+s000117,quiet_luxury,US,en,stealth wealth,Understated luxury > logo mania. My closet finally feels like mine.,positive,363,91,1737230400.0
+s000118,quiet_luxury,US,en,stealth wealth,The stealth wealth thing is exhausting. It's just beige.,negative,379,86,1720717200.0
+s000119,quiet_luxury,US,en,stealth wealth,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,210,110,1713416400.0
+s000120,quiet_luxury,US,en,stealth wealth,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,7,4,1762700400.0
+s000121,quiet_luxury,US,en,stealth wealth,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,260,51,1726441200.0
+s000122,quiet_luxury,US,en,stealth wealth,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,47,92,1762516800.0
+s000123,quiet_luxury,US,en,stealth wealth,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,198,19,1745028000.0
+s000124,quiet_luxury,US,en,stealth wealth,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,75,43,1733256000.0
+s000125,quiet_luxury,US,en,stealth wealth,Understated luxury > logo mania. My closet finally feels like mine.,positive,90,81,1720670400.0
+s000126,quiet_luxury,US,en,stealth wealth,The stealth wealth thing is exhausting. It's just beige.,negative,429,118,1761282000.0
+s000127,quiet_luxury,US,en,stealth wealth,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,106,41,1719284400.0
+s000128,quiet_luxury,US,en,stealth wealth,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,367,77,1758808800.0
+s000129,quiet_luxury,US,en,stealth wealth,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,190,49,1744336800.0
+s000130,quiet_luxury,US,en,stealth wealth,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,371,78,1709564400.0
+s000131,quiet_luxury,US,en,stealth wealth,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,391,113,1737320400.0
+s000132,quiet_luxury,US,en,stealth wealth,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,53,93,1731690000.0
+s000133,quiet_luxury,US,en,stealth wealth,Understated luxury > logo mania. My closet finally feels like mine.,positive,432,103,1747623600.0
+s000134,quiet_luxury,US,en,stealth wealth,The stealth wealth thing is exhausting. It's just beige.,negative,50,0,1735426800.0
+s000135,quiet_luxury,US,en,stealth wealth,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,372,54,1730872800.0
+s000136,quiet_luxury,US,en,stealth wealth,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,489,118,1717113600.0
+s000137,quiet_luxury,US,en,stealth wealth,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,359,111,1754132400.0
+s000138,quiet_luxury,US,en,stealth wealth,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,197,75,1743213600.0
+s000139,quiet_luxury,US,en,stealth wealth,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,304,68,1725699600.0
+s000140,quiet_luxury,US,en,stealth wealth,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,205,1,1727974800.0
+s000141,quiet_luxury,US,en,stealth wealth,Understated luxury > logo mania. My closet finally feels like mine.,positive,467,60,1739901600.0
+s000142,quiet_luxury,US,en,stealth wealth,The stealth wealth thing is exhausting. It's just beige.,negative,99,40,1708264800.0
+s000143,quiet_luxury,US,en,stealth wealth,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,197,92,1726657200.0
+s000144,quiet_luxury,US,en,stealth wealth,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,82,36,1724727600.0
+s000145,quiet_luxury,US,en,understated luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,170,2,1706990400.0
+s000146,quiet_luxury,US,en,understated luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,122,23,1749355200.0
+s000147,quiet_luxury,US,en,understated luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,376,70,1733450400.0
+s000148,quiet_luxury,US,en,understated luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,139,57,1725501600.0
+s000149,quiet_luxury,US,en,understated luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,93,57,1764741600.0
+s000150,quiet_luxury,US,en,understated luxury,The stealth wealth thing is exhausting. It's just beige.,negative,234,54,1707663600.0
+s000151,quiet_luxury,US,en,understated luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,23,1,1712041200.0
+s000152,quiet_luxury,US,en,understated luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,479,29,1709647200.0
+s000153,quiet_luxury,US,en,understated luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,248,106,1745953200.0
+s000154,quiet_luxury,US,en,understated luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,126,16,1718593200.0
+s000155,quiet_luxury,US,en,understated luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,382,36,1723536000.0
+s000156,quiet_luxury,US,en,understated luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,450,12,1752199200.0
+s000157,quiet_luxury,US,en,understated luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,491,42,1742360400.0
+s000158,quiet_luxury,US,en,understated luxury,The stealth wealth thing is exhausting. It's just beige.,negative,36,49,1740715200.0
+s000159,quiet_luxury,US,en,understated luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,152,26,1762574400.0
+s000160,quiet_luxury,US,en,understated luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,49,97,1730563200.0
+s000161,quiet_luxury,US,en,understated luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,308,48,1750294800.0
+s000162,quiet_luxury,US,en,understated luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,83,9,1736524800.0
+s000163,quiet_luxury,US,en,understated luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,80,12,1732345200.0
+s000164,quiet_luxury,US,en,understated luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,292,62,1727398800.0
+s000165,quiet_luxury,US,en,understated luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,148,101,1750111200.0
+s000166,quiet_luxury,US,en,understated luxury,The stealth wealth thing is exhausting. It's just beige.,negative,203,13,1756033200.0
+s000167,quiet_luxury,US,en,understated luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,386,5,1705960800.0
+s000168,quiet_luxury,US,en,understated luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,470,49,1741586400.0
+s000169,quiet_luxury,US,en,understated luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,448,87,1718506800.0
+s000170,quiet_luxury,US,en,understated luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,133,21,1728010800.0
+s000171,quiet_luxury,US,en,understated luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,90,78,1742518800.0
+s000172,quiet_luxury,US,en,understated luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,225,22,1707912000.0
+s000173,quiet_luxury,US,en,understated luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,355,16,1758697200.0
+s000174,quiet_luxury,US,en,understated luxury,The stealth wealth thing is exhausting. It's just beige.,negative,437,89,1739840400.0
+s000175,quiet_luxury,US,en,understated luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,265,86,1737367200.0
+s000176,quiet_luxury,US,en,understated luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,123,35,1724742000.0
+s000177,quiet_luxury,US,en,understated luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,470,8,1706328000.0
+s000178,quiet_luxury,US,en,understated luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,388,39,1704333600.0
+s000179,quiet_luxury,US,en,understated luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,245,54,1721660400.0
+s000180,quiet_luxury,US,en,understated luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,268,99,1728572400.0
+s000181,quiet_luxury,US,en,understated luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,66,43,1726578000.0
+s000182,quiet_luxury,US,en,understated luxury,The stealth wealth thing is exhausting. It's just beige.,negative,476,10,1715396400.0
+s000183,quiet_luxury,US,en,understated luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,476,17,1755957600.0
+s000184,quiet_luxury,US,en,understated luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,277,115,1727236800.0
+s000185,quiet_luxury,US,en,understated luxury,Quiet luxury is really just having a good tailor and a cashmere addiction. The Row lookbook lives in my head rent free.,positive,127,104,1714284000.0
+s000186,quiet_luxury,US,en,understated luxury,Old money aesthetic feels performative on TikTok now. It's just Ralph Lauren cosplay for people with debt.,negative,60,18,1727654400.0
+s000187,quiet_luxury,US,en,understated luxury,"Stealth wealth basics: navy crewneck, gray flannels, unbranded loafers. Nothing screams, everything whispers.",positive,161,109,1704250800.0
+s000188,quiet_luxury,US,en,understated luxury,Honestly quiet luxury is a marketing term. Rich people always dressed like this.,neutral,233,116,1708538400.0
+s000189,quiet_luxury,US,en,understated luxury,Understated luxury > logo mania. My closet finally feels like mine.,positive,266,79,1736942400.0
+s000190,quiet_luxury,US,en,understated luxury,The stealth wealth thing is exhausting. It's just beige.,negative,494,17,1756270800.0
+s000191,quiet_luxury,US,en,understated luxury,Best quiet luxury piece I own: an unlined cashmere blazer. Wears like a sweatshirt.,positive,371,44,1754956800.0
+s000192,quiet_luxury,US,en,understated luxury,Old money aesthetic on Pinterest is 90% white girls at horse farms. Where is the range.,negative,77,99,1756303200.0
+s000193,quiet_luxury,FR,fr,luxe discret,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,171,67,1746500400.0
+s000194,quiet_luxury,FR,fr,luxe discret,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,171,6,1761958800.0
+s000195,quiet_luxury,FR,fr,luxe discret,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,311,6,1745017200.0
+s000196,quiet_luxury,FR,fr,luxe discret,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,397,99,1743717600.0
+s000197,quiet_luxury,FR,fr,luxe discret,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,461,63,1717135200.0
+s000198,quiet_luxury,FR,fr,luxe discret,Style old money = privilège déguisé en minimalisme.,negative,319,90,1721912400.0
+s000199,quiet_luxury,FR,fr,luxe discret,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,496,33,1738368000.0
+s000200,quiet_luxury,FR,fr,luxe discret,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,31,47,1758700800.0
+s000201,quiet_luxury,FR,fr,luxe discret,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,65,52,1753707600.0
+s000202,quiet_luxury,FR,fr,luxe discret,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,316,59,1753070400.0
+s000203,quiet_luxury,FR,fr,luxe discret,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,461,77,1713610800.0
+s000204,quiet_luxury,FR,fr,luxe discret,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,363,86,1729846800.0
+s000205,quiet_luxury,FR,fr,luxe discret,Style old money = privilège déguisé en minimalisme.,negative,330,78,1722949200.0
+s000206,quiet_luxury,FR,fr,luxe discret,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,236,73,1708621200.0
+s000207,quiet_luxury,FR,fr,luxe discret,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,172,66,1736827200.0
+s000208,quiet_luxury,FR,fr,luxe discret,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,339,118,1709701200.0
+s000209,quiet_luxury,FR,fr,luxe discret,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,21,118,1740445200.0
+s000210,quiet_luxury,FR,fr,luxe discret,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,446,89,1722085200.0
+s000211,quiet_luxury,FR,fr,luxe discret,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,495,54,1721340000.0
+s000212,quiet_luxury,FR,fr,luxe discret,Style old money = privilège déguisé en minimalisme.,negative,330,20,1750777200.0
+s000213,quiet_luxury,FR,fr,luxe discret,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,473,85,1726563600.0
+s000214,quiet_luxury,FR,fr,luxe discret,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,369,47,1749808800.0
+s000215,quiet_luxury,FR,fr,luxe discret,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,281,17,1759665600.0
+s000216,quiet_luxury,FR,fr,luxe discret,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,254,87,1740776400.0
+s000217,quiet_luxury,FR,fr,luxe discret,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,210,22,1724641200.0
+s000218,quiet_luxury,FR,fr,luxe discret,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,171,83,1729105200.0
+s000219,quiet_luxury,FR,fr,luxe discret,Style old money = privilège déguisé en minimalisme.,negative,220,31,1732968000.0
+s000220,quiet_luxury,FR,fr,luxe discret,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,46,38,1755486000.0
+s000221,quiet_luxury,FR,fr,luxe discret,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,328,87,1712260800.0
+s000222,quiet_luxury,FR,fr,luxe discret,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,10,106,1723057200.0
+s000223,quiet_luxury,FR,fr,luxe discret,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,99,19,1754125200.0
+s000224,quiet_luxury,FR,fr,luxe discret,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,430,90,1762556400.0
+s000225,quiet_luxury,FR,fr,luxe discret,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,334,20,1760857200.0
+s000226,quiet_luxury,FR,fr,luxe discret,Style old money = privilège déguisé en minimalisme.,negative,138,91,1758250800.0
+s000227,quiet_luxury,FR,fr,luxe discret,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,142,33,1721448000.0
+s000228,quiet_luxury,FR,fr,luxe discret,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,455,88,1760990400.0
+s000229,quiet_luxury,FR,fr,luxe discret,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,271,65,1763791200.0
+s000230,quiet_luxury,FR,fr,luxe discret,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,476,69,1751922000.0
+s000231,quiet_luxury,FR,fr,luxe discret,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,128,36,1750442400.0
+s000232,quiet_luxury,FR,fr,luxe discret,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,160,86,1708106400.0
+s000233,quiet_luxury,FR,fr,luxe discret,Style old money = privilège déguisé en minimalisme.,negative,200,52,1736485200.0
+s000234,quiet_luxury,FR,fr,luxe discret,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,12,64,1738008000.0
+s000235,quiet_luxury,FR,fr,style old money,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,437,115,1747656000.0
+s000236,quiet_luxury,FR,fr,style old money,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,222,21,1726682400.0
+s000237,quiet_luxury,FR,fr,style old money,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,427,39,1756872000.0
+s000238,quiet_luxury,FR,fr,style old money,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,272,84,1757322000.0
+s000239,quiet_luxury,FR,fr,style old money,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,316,97,1731592800.0
+s000240,quiet_luxury,FR,fr,style old money,Style old money = privilège déguisé en minimalisme.,negative,122,48,1754388000.0
+s000241,quiet_luxury,FR,fr,style old money,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,462,37,1763521200.0
+s000242,quiet_luxury,FR,fr,style old money,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,489,2,1762304400.0
+s000243,quiet_luxury,FR,fr,style old money,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,382,27,1766095200.0
+s000244,quiet_luxury,FR,fr,style old money,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,240,75,1710626400.0
+s000245,quiet_luxury,FR,fr,style old money,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,120,72,1747573200.0
+s000246,quiet_luxury,FR,fr,style old money,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,145,36,1743534000.0
+s000247,quiet_luxury,FR,fr,style old money,Style old money = privilège déguisé en minimalisme.,negative,293,43,1732777200.0
+s000248,quiet_luxury,FR,fr,style old money,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,110,78,1721908800.0
+s000249,quiet_luxury,FR,fr,style old money,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,430,68,1722211200.0
+s000250,quiet_luxury,FR,fr,style old money,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,4,4,1726808400.0
+s000251,quiet_luxury,FR,fr,style old money,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,398,16,1732356000.0
+s000252,quiet_luxury,FR,fr,style old money,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,70,83,1718672400.0
+s000253,quiet_luxury,FR,fr,style old money,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,58,13,1741734000.0
+s000254,quiet_luxury,FR,fr,style old money,Style old money = privilège déguisé en minimalisme.,negative,499,34,1732100400.0
+s000255,quiet_luxury,FR,fr,style old money,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,77,3,1762923600.0
+s000256,quiet_luxury,FR,fr,style old money,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,310,105,1728993600.0
+s000257,quiet_luxury,FR,fr,style old money,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,490,75,1722135600.0
+s000258,quiet_luxury,FR,fr,style old money,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,69,70,1762394400.0
+s000259,quiet_luxury,FR,fr,style old money,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,136,57,1719615600.0
+s000260,quiet_luxury,FR,fr,style old money,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,332,54,1717984800.0
+s000261,quiet_luxury,FR,fr,style old money,Style old money = privilège déguisé en minimalisme.,negative,416,69,1748228400.0
+s000262,quiet_luxury,FR,fr,style old money,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,212,60,1713762000.0
+s000263,quiet_luxury,FR,fr,style old money,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,250,35,1719244800.0
+s000264,quiet_luxury,FR,fr,style old money,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,326,0,1753646400.0
+s000265,quiet_luxury,FR,fr,style old money,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,499,3,1705640400.0
+s000266,quiet_luxury,FR,fr,style old money,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,48,82,1710687600.0
+s000267,quiet_luxury,FR,fr,style old money,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,488,38,1711486800.0
+s000268,quiet_luxury,FR,fr,style old money,Style old money = privilège déguisé en minimalisme.,negative,231,21,1722502800.0
+s000269,quiet_luxury,FR,fr,style old money,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,26,44,1717156800.0
+s000270,quiet_luxury,FR,fr,style old money,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,177,38,1751572800.0
+s000271,quiet_luxury,FR,fr,style old money,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,416,108,1746486000.0
+s000272,quiet_luxury,FR,fr,style old money,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,208,47,1762387200.0
+s000273,quiet_luxury,FR,fr,style old money,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,374,85,1718701200.0
+s000274,quiet_luxury,FR,fr,style old money,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,246,26,1714521600.0
+s000275,quiet_luxury,FR,fr,style old money,Style old money = privilège déguisé en minimalisme.,negative,72,68,1720749600.0
+s000276,quiet_luxury,FR,fr,style old money,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,48,39,1761098400.0
+s000277,quiet_luxury,FR,fr,luxe silencieux,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,267,33,1723176000.0
+s000278,quiet_luxury,FR,fr,luxe silencieux,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,27,27,1735783200.0
+s000279,quiet_luxury,FR,fr,luxe silencieux,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,218,102,1709424000.0
+s000280,quiet_luxury,FR,fr,luxe silencieux,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,18,40,1710284400.0
+s000281,quiet_luxury,FR,fr,luxe silencieux,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,411,41,1750532400.0
+s000282,quiet_luxury,FR,fr,luxe silencieux,Style old money = privilège déguisé en minimalisme.,negative,74,7,1705640400.0
+s000283,quiet_luxury,FR,fr,luxe silencieux,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,411,66,1720832400.0
+s000284,quiet_luxury,FR,fr,luxe silencieux,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,409,5,1732377600.0
+s000285,quiet_luxury,FR,fr,luxe silencieux,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,197,65,1730340000.0
+s000286,quiet_luxury,FR,fr,luxe silencieux,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,129,39,1740693600.0
+s000287,quiet_luxury,FR,fr,luxe silencieux,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,252,64,1716674400.0
+s000288,quiet_luxury,FR,fr,luxe silencieux,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,232,37,1748556000.0
+s000289,quiet_luxury,FR,fr,luxe silencieux,Style old money = privilège déguisé en minimalisme.,negative,110,75,1729681200.0
+s000290,quiet_luxury,FR,fr,luxe silencieux,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,375,115,1744437600.0
+s000291,quiet_luxury,FR,fr,luxe silencieux,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,43,40,1751338800.0
+s000292,quiet_luxury,FR,fr,luxe silencieux,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,88,5,1714107600.0
+s000293,quiet_luxury,FR,fr,luxe silencieux,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,199,83,1707955200.0
+s000294,quiet_luxury,FR,fr,luxe silencieux,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,69,118,1757221200.0
+s000295,quiet_luxury,FR,fr,luxe silencieux,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,224,110,1715281200.0
+s000296,quiet_luxury,FR,fr,luxe silencieux,Style old money = privilège déguisé en minimalisme.,negative,437,114,1715511600.0
+s000297,quiet_luxury,FR,fr,luxe silencieux,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,436,54,1763614800.0
+s000298,quiet_luxury,FR,fr,luxe silencieux,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,111,56,1742446800.0
+s000299,quiet_luxury,FR,fr,luxe silencieux,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,145,30,1762974000.0
+s000300,quiet_luxury,FR,fr,luxe silencieux,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,283,89,1704492000.0
+s000301,quiet_luxury,FR,fr,luxe silencieux,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,414,44,1727971200.0
+s000302,quiet_luxury,FR,fr,luxe silencieux,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,14,63,1733000400.0
+s000303,quiet_luxury,FR,fr,luxe silencieux,Style old money = privilège déguisé en minimalisme.,negative,301,44,1761958800.0
+s000304,quiet_luxury,FR,fr,luxe silencieux,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,130,34,1742565600.0
+s000305,quiet_luxury,FR,fr,luxe silencieux,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,379,12,1720180800.0
+s000306,quiet_luxury,FR,fr,luxe silencieux,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,281,18,1725753600.0
+s000307,quiet_luxury,FR,fr,luxe silencieux,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,136,15,1751022000.0
+s000308,quiet_luxury,FR,fr,luxe silencieux,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,158,54,1714143600.0
+s000309,quiet_luxury,FR,fr,luxe silencieux,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,338,101,1743868800.0
+s000310,quiet_luxury,FR,fr,luxe silencieux,Style old money = privilège déguisé en minimalisme.,negative,1,1,1726534800.0
+s000311,quiet_luxury,FR,fr,luxe silencieux,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,447,92,1741240800.0
+s000312,quiet_luxury,FR,fr,luxe silencieux,"Le luxe discret, c'est la vraie élégance. Pas de logo, juste une coupe impeccable.",positive,86,100,1752519600.0
+s000313,quiet_luxury,FR,fr,luxe silencieux,Franchement le style old money version française c'est juste le vestiaire APC + Hermès accessible. Rien de neuf.,neutral,235,99,1710036000.0
+s000314,quiet_luxury,FR,fr,luxe silencieux,"Luxe silencieux mon oeil, c'est encore une tendance TikTok qui va disparaître.",negative,467,56,1756389600.0
+s000315,quiet_luxury,FR,fr,luxe silencieux,"J'adore ce retour au luxe discret, on respire enfin après des années de streetwear tape-à-l'oeil.",positive,108,56,1725152400.0
+s000316,quiet_luxury,FR,fr,luxe silencieux,Le luxe discret parisien c'est un manteau en cachemire beige et des mocassins. Chic mais tellement prévisible.,neutral,98,36,1732986000.0
+s000317,quiet_luxury,FR,fr,luxe silencieux,Style old money = privilège déguisé en minimalisme.,negative,107,107,1705780800.0
+s000318,quiet_luxury,FR,fr,luxe silencieux,Enfin des marques françaises qui portent le luxe discret sans en faire des tonnes.,positive,104,12,1729821600.0
+s000319,quiet_luxury,KR,ko,올드머니룩,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,88,9,1736510400.0
+s000320,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,430,21,1744603200.0
+s000321,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,181,29,1725440400.0
+s000322,quiet_luxury,KR,ko,올드머니룩,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,179,41,1736730000.0
+s000323,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,305,50,1761894000.0
+s000324,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,444,3,1753855200.0
+s000325,quiet_luxury,KR,ko,올드머니룩,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,50,90,1747623600.0
+s000326,quiet_luxury,KR,ko,올드머니룩,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,58,55,1707188400.0
+s000327,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,61,23,1729447200.0
+s000328,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,377,12,1764032400.0
+s000329,quiet_luxury,KR,ko,올드머니룩,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,263,17,1747180800.0
+s000330,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,23,25,1731646800.0
+s000331,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,162,56,1707912000.0
+s000332,quiet_luxury,KR,ko,올드머니룩,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,288,109,1709524800.0
+s000333,quiet_luxury,KR,ko,올드머니룩,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,86,96,1761609600.0
+s000334,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,249,63,1724389200.0
+s000335,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,485,114,1722088800.0
+s000336,quiet_luxury,KR,ko,올드머니룩,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,199,95,1754132400.0
+s000337,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,64,78,1733331600.0
+s000338,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,97,117,1717578000.0
+s000339,quiet_luxury,KR,ko,올드머니룩,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,433,3,1753671600.0
+s000340,quiet_luxury,KR,ko,올드머니룩,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,179,80,1739984400.0
+s000341,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,216,96,1731412800.0
+s000342,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,463,96,1727632800.0
+s000343,quiet_luxury,KR,ko,올드머니룩,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,196,92,1749524400.0
+s000344,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,226,116,1720947600.0
+s000345,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,231,34,1727974800.0
+s000346,quiet_luxury,KR,ko,올드머니룩,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,277,44,1725908400.0
+s000347,quiet_luxury,KR,ko,올드머니룩,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,173,8,1764406800.0
+s000348,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,48,36,1737198000.0
+s000349,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,361,116,1735185600.0
+s000350,quiet_luxury,KR,ko,올드머니룩,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,108,93,1757761200.0
+s000351,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,378,63,1751212800.0
+s000352,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,413,116,1736751600.0
+s000353,quiet_luxury,KR,ko,올드머니룩,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,299,12,1715396400.0
+s000354,quiet_luxury,KR,ko,올드머니룩,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,27,78,1765828800.0
+s000355,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,196,12,1756785600.0
+s000356,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,289,117,1761447600.0
+s000357,quiet_luxury,KR,ko,올드머니룩,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,20,112,1742342400.0
+s000358,quiet_luxury,KR,ko,올드머니룩,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,281,9,1760904000.0
+s000359,quiet_luxury,KR,ko,올드머니룩,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,371,18,1724889600.0
+s000360,quiet_luxury,KR,ko,올드머니룩,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,248,24,1719018000.0
+s000361,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,3,68,1732194000.0
+s000362,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,166,105,1762383600.0
+s000363,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,187,102,1765591200.0
+s000364,quiet_luxury,KR,ko,조용한 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,135,80,1707667200.0
+s000365,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,387,17,1731124800.0
+s000366,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,268,28,1717423200.0
+s000367,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,481,95,1708920000.0
+s000368,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,94,111,1757120400.0
+s000369,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,439,69,1763917200.0
+s000370,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,51,46,1711364400.0
+s000371,quiet_luxury,KR,ko,조용한 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,241,29,1735516800.0
+s000372,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,491,87,1743782400.0
+s000373,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,213,112,1760724000.0
+s000374,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,209,15,1712055600.0
+s000375,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,397,26,1758855600.0
+s000376,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,142,84,1708390800.0
+s000377,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,437,7,1749459600.0
+s000378,quiet_luxury,KR,ko,조용한 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,260,60,1762473600.0
+s000379,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,345,69,1731070800.0
+s000380,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,334,13,1743048000.0
+s000381,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,309,16,1753268400.0
+s000382,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,231,115,1740186000.0
+s000383,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,107,53,1762009200.0
+s000384,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,95,59,1739764800.0
+s000385,quiet_luxury,KR,ko,조용한 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,49,61,1715594400.0
+s000386,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,203,26,1716523200.0
+s000387,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,487,29,1729900800.0
+s000388,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,326,118,1740276000.0
+s000389,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,317,43,1759111200.0
+s000390,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,216,43,1712404800.0
+s000391,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,267,44,1716771600.0
+s000392,quiet_luxury,KR,ko,조용한 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,479,79,1733893200.0
+s000393,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,353,65,1716685200.0
+s000394,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,451,46,1736499600.0
+s000395,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,468,91,1723338000.0
+s000396,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,59,33,1760835600.0
+s000397,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,417,112,1704330000.0
+s000398,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,267,8,1748923200.0
+s000399,quiet_luxury,KR,ko,조용한 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,284,84,1758337200.0
+s000400,quiet_luxury,KR,ko,조용한 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,223,118,1753354800.0
+s000401,quiet_luxury,KR,ko,조용한 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,484,34,1714698000.0
+s000402,quiet_luxury,KR,ko,조용한 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,95,61,1753261200.0
+s000403,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,482,23,1716364800.0
+s000404,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,433,15,1745978400.0
+s000405,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,415,15,1737752400.0
+s000406,quiet_luxury,KR,ko,미니멀 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,421,43,1742619600.0
+s000407,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,64,110,1743048000.0
+s000408,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,273,46,1722812400.0
+s000409,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,449,25,1764172800.0
+s000410,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,352,91,1731387600.0
+s000411,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,228,103,1732456800.0
+s000412,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,181,23,1721473200.0
+s000413,quiet_luxury,KR,ko,미니멀 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,45,86,1711191600.0
+s000414,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,390,86,1739412000.0
+s000415,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,465,100,1716123600.0
+s000416,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,18,37,1709488800.0
+s000417,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,103,33,1757563200.0
+s000418,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,110,46,1755061200.0
+s000419,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,468,104,1745420400.0
+s000420,quiet_luxury,KR,ko,미니멀 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,118,67,1706677200.0
+s000421,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,77,111,1726102800.0
+s000422,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,98,17,1713229200.0
+s000423,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,456,31,1726765200.0
+s000424,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,313,95,1745164800.0
+s000425,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,400,103,1735624800.0
+s000426,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,432,74,1744653600.0
+s000427,quiet_luxury,KR,ko,미니멀 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,174,13,1712030400.0
+s000428,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,113,48,1733364000.0
+s000429,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,472,101,1742734800.0
+s000430,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,385,14,1724324400.0
+s000431,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,92,73,1730390400.0
+s000432,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,326,20,1715590800.0
+s000433,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,217,96,1714161600.0
+s000434,quiet_luxury,KR,ko,미니멀 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,361,108,1751781600.0
+s000435,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,468,91,1748494800.0
+s000436,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,54,70,1755147600.0
+s000437,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,260,3,1737122400.0
+s000438,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 진짜 예쁘다. 니트 하나에 슬랙스만 입어도 분위기 다름.,positive,218,33,1762354800.0
+s000439,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 트렌드 그냥 비싸 보이려는 마케팅 아님?,negative,243,61,1710306000.0
+s000440,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리 좋아하는데 한국에서는 어울리는 브랜드가 많이 없어서 아쉬움.,neutral,211,116,1761400800.0
+s000441,quiet_luxury,KR,ko,미니멀 럭셔리,요즘 셀럽들 다 올드머니룩. 지겨울 정도.,negative,296,28,1749693600.0
+s000442,quiet_luxury,KR,ko,미니멀 럭셔리,조용한 럭셔리 코디 하나만 잘하면 데일리로 계속 입을 수 있어서 좋음.,positive,319,73,1748844000.0
+s000443,quiet_luxury,KR,ko,미니멀 럭셔리,미니멀 럭셔리는 결국 캐시미어랑 좋은 재단이 답이다.,positive,490,2,1741222800.0
+s000444,quiet_luxury,KR,ko,미니멀 럭셔리,올드머니룩 하려면 결국 돈이 필요함. 조용한 게 아니라 조용하게 돈 자랑.,negative,448,33,1734789600.0
+s000445,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,31,96,1748700000.0
+s000446,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,324,89,1748908800.0
+s000447,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,214,54,1760310000.0
+s000448,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,428,92,1716145200.0
+s000449,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,174,52,1722880800.0
+s000450,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,336,111,1752519600.0
+s000451,quiet_luxury,JP,ja,クワイエットラグジュアリー,静かなラグジュアリーは日本の美意識と相性がいい。,positive,186,71,1747972800.0
+s000452,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,406,44,1743163200.0
+s000453,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,368,58,1706886000.0
+s000454,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,108,71,1737205200.0
+s000455,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,66,46,1725832800.0
+s000456,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,313,13,1727326800.0
+s000457,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,447,87,1718056800.0
+s000458,quiet_luxury,JP,ja,クワイエットラグジュアリー,静かなラグジュアリーは日本の美意識と相性がいい。,positive,56,11,1739088000.0
+s000459,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,78,33,1754020800.0
+s000460,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,146,39,1728622800.0
+s000461,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,441,87,1715871600.0
+s000462,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,354,100,1714687200.0
+s000463,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,179,94,1750741200.0
+s000464,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,74,46,1753970400.0
+s000465,quiet_luxury,JP,ja,クワイエットラグジュアリー,静かなラグジュアリーは日本の美意識と相性がいい。,positive,154,45,1719475200.0
+s000466,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,275,99,1748055600.0
+s000467,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,35,50,1713387600.0
+s000468,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,391,69,1718978400.0
+s000469,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,407,24,1710885600.0
+s000470,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,410,33,1731416400.0
+s000471,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,181,21,1725174000.0
+s000472,quiet_luxury,JP,ja,クワイエットラグジュアリー,静かなラグジュアリーは日本の美意識と相性がいい。,positive,234,41,1718427600.0
+s000473,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,121,109,1748775600.0
+s000474,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,157,22,1714946400.0
+s000475,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,66,1,1726819200.0
+s000476,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,152,103,1747659600.0
+s000477,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,118,64,1760094000.0
+s000478,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,465,43,1707775200.0
+s000479,quiet_luxury,JP,ja,クワイエットラグジュアリー,静かなラグジュアリーは日本の美意識と相性がいい。,positive,321,2,1743170400.0
+s000480,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,499,56,1742868000.0
+s000481,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,444,99,1731520800.0
+s000482,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,395,43,1735527600.0
+s000483,quiet_luxury,JP,ja,クワイエットラグジュアリー,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,41,85,1751374800.0
+s000484,quiet_luxury,JP,ja,クワイエットラグジュアリー,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,239,56,1740182400.0
+s000485,quiet_luxury,JP,ja,クワイエットラグジュアリー,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,204,54,1734703200.0
+s000486,quiet_luxury,JP,ja,クワイエットラグジュアリー,静かなラグジュアリーは日本の美意識と相性がいい。,positive,276,77,1751562000.0
+s000487,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,55,85,1765674000.0
+s000488,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,396,8,1716271200.0
+s000489,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,497,80,1752022800.0
+s000490,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,445,19,1711504800.0
+s000491,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,201,89,1712048400.0
+s000492,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,303,75,1755158400.0
+s000493,quiet_luxury,JP,ja,オールドマネー ファッション,静かなラグジュアリーは日本の美意識と相性がいい。,positive,172,119,1730952000.0
+s000494,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,148,25,1742313600.0
+s000495,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,98,89,1717909200.0
+s000496,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,474,91,1743210000.0
+s000497,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,417,0,1707739200.0
+s000498,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,96,88,1745870400.0
+s000499,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,406,117,1718082000.0
+s000500,quiet_luxury,JP,ja,オールドマネー ファッション,静かなラグジュアリーは日本の美意識と相性がいい。,positive,456,92,1761375600.0
+s000501,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,339,119,1722657600.0
+s000502,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,118,115,1730246400.0
+s000503,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,482,67,1725350400.0
+s000504,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,215,118,1704351600.0
+s000505,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,127,93,1747569600.0
+s000506,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,386,69,1741906800.0
+s000507,quiet_luxury,JP,ja,オールドマネー ファッション,静かなラグジュアリーは日本の美意識と相性がいい。,positive,417,100,1749985200.0
+s000508,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,3,68,1746165600.0
+s000509,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,497,105,1726678800.0
+s000510,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,104,107,1717030800.0
+s000511,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,405,92,1749394800.0
+s000512,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,198,40,1712800800.0
+s000513,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,186,28,1713823200.0
+s000514,quiet_luxury,JP,ja,オールドマネー ファッション,静かなラグジュアリーは日本の美意識と相性がいい。,positive,98,67,1714798800.0
+s000515,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,240,88,1731153600.0
+s000516,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,321,88,1736902800.0
+s000517,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,491,19,1712433600.0
+s000518,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,202,29,1744632000.0
+s000519,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,123,119,1708570800.0
+s000520,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,377,116,1709499600.0
+s000521,quiet_luxury,JP,ja,オールドマネー ファッション,静かなラグジュアリーは日本の美意識と相性がいい。,positive,234,15,1729821600.0
+s000522,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,93,48,1714888800.0
+s000523,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,145,23,1718888400.0
+s000524,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,453,64,1717282800.0
+s000525,quiet_luxury,JP,ja,オールドマネー ファッション,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,133,72,1743724800.0
+s000526,quiet_luxury,JP,ja,オールドマネー ファッション,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,128,33,1711440000.0
+s000527,quiet_luxury,JP,ja,オールドマネー ファッション,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,471,61,1705464000.0
+s000528,quiet_luxury,JP,ja,オールドマネー ファッション,静かなラグジュアリーは日本の美意識と相性がいい。,positive,113,48,1761912000.0
+s000529,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,200,30,1743469200.0
+s000530,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,81,94,1709341200.0
+s000531,quiet_luxury,JP,ja,上品カジュアル,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,391,19,1731092400.0
+s000532,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,458,73,1728453600.0
+s000533,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,424,8,1719536400.0
+s000534,quiet_luxury,JP,ja,上品カジュアル,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,26,102,1736575200.0
+s000535,quiet_luxury,JP,ja,上品カジュアル,静かなラグジュアリーは日本の美意識と相性がいい。,positive,153,11,1737770400.0
+s000536,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,380,72,1737568800.0
+s000537,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,390,19,1711594800.0
+s000538,quiet_luxury,JP,ja,上品カジュアル,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,364,117,1710734400.0
+s000539,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,438,22,1707570000.0
+s000540,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,372,5,1765292400.0
+s000541,quiet_luxury,JP,ja,上品カジュアル,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,374,74,1714176000.0
+s000542,quiet_luxury,JP,ja,上品カジュアル,静かなラグジュアリーは日本の美意識と相性がいい。,positive,59,118,1730361600.0
+s000543,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,251,80,1723273200.0
+s000544,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,291,102,1735484400.0
+s000545,quiet_luxury,JP,ja,上品カジュアル,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,393,115,1755860400.0
+s000546,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,124,92,1753758000.0
+s000547,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,339,30,1722117600.0
+s000548,quiet_luxury,JP,ja,上品カジュアル,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,95,40,1753628400.0
+s000549,quiet_luxury,JP,ja,上品カジュアル,静かなラグジュアリーは日本の美意識と相性がいい。,positive,480,0,1732316400.0
+s000550,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,459,18,1754773200.0
+s000551,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,176,42,1728536400.0
+s000552,quiet_luxury,JP,ja,上品カジュアル,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,237,8,1745089200.0
+s000553,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,47,71,1717909200.0
+s000554,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,437,11,1742385600.0
+s000555,quiet_luxury,JP,ja,上品カジュアル,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,394,72,1736150400.0
+s000556,quiet_luxury,JP,ja,上品カジュアル,静かなラグジュアリーは日本の美意識と相性がいい。,positive,490,57,1742036400.0
+s000557,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,151,29,1752631200.0
+s000558,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,169,28,1717023600.0
+s000559,quiet_luxury,JP,ja,上品カジュアル,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,329,112,1722362400.0
+s000560,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,13,54,1763078400.0
+s000561,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,356,38,1761112800.0
+s000562,quiet_luxury,JP,ja,上品カジュアル,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,248,56,1741708800.0
+s000563,quiet_luxury,JP,ja,上品カジュアル,静かなラグジュアリーは日本の美意識と相性がいい。,positive,174,98,1732150800.0
+s000564,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリー、めっちゃ好き。ロゴなしのカシミアが最強。,positive,16,100,1750813200.0
+s000565,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッション、日本人には少し重いかも。着こなしが難しい。,neutral,472,104,1729940400.0
+s000566,quiet_luxury,JP,ja,上品カジュアル,上品カジュアル、実は一番難しいスタイル。全部の質が問われる。,positive,375,64,1726448400.0
+s000567,quiet_luxury,JP,ja,上品カジュアル,クワイエットラグジュアリーって結局高い服買うだけでしょ。,negative,433,26,1736665200.0
+s000568,quiet_luxury,JP,ja,上品カジュアル,オールドマネー ファッションのシンプルさがちょうどいい。飽きない。,positive,442,35,1749852000.0
+s000569,quiet_luxury,JP,ja,上品カジュアル,上品カジュアルを目指すと結局ユニクロ+Theoryになる問題。,neutral,266,49,1738130400.0
+s000570,quiet_luxury,JP,ja,上品カジュアル,静かなラグジュアリーは日本の美意識と相性がいい。,positive,123,95,1753830000.0

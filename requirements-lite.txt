@@ -1,0 +1,14 @@
+# Minimal dependencies to demo the dashboard without downloading
+# transformer weights. The pipeline falls back to a heuristic sentiment
+# model and hashed-bag-of-words embeddings when transformers are absent.
+pandas>=2.2
+numpy>=1.26
+pyyaml>=6.0
+requests>=2.31
+scikit-learn>=1.4
+pyarrow>=15.0
+langdetect>=1.0.9
+feedparser>=6.0
+pytrends>=4.9
+streamlit>=1.35
+plotly>=5.20

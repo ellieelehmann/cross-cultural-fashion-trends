@@ -1,0 +1,547 @@
+date,aesthetic,market,country_code,language,keyword,interest
+2023-01-01,quiet_luxury,US,US,en,quiet luxury,33
+2023-02-01,quiet_luxury,US,US,en,quiet luxury,5
+2023-03-01,quiet_luxury,US,US,en,quiet luxury,15
+2023-04-01,quiet_luxury,US,US,en,quiet luxury,32
+2023-05-01,quiet_luxury,US,US,en,quiet luxury,28
+2023-06-01,quiet_luxury,US,US,en,quiet luxury,30
+2023-07-01,quiet_luxury,US,US,en,quiet luxury,20
+2023-08-01,quiet_luxury,US,US,en,quiet luxury,36
+2023-09-01,quiet_luxury,US,US,en,quiet luxury,33
+2023-10-01,quiet_luxury,US,US,en,quiet luxury,24
+2023-11-01,quiet_luxury,US,US,en,quiet luxury,35
+2023-12-01,quiet_luxury,US,US,en,quiet luxury,29
+2024-01-01,quiet_luxury,US,US,en,quiet luxury,17
+2024-02-01,quiet_luxury,US,US,en,quiet luxury,33
+2024-03-01,quiet_luxury,US,US,en,quiet luxury,22
+2024-04-01,quiet_luxury,US,US,en,quiet luxury,45
+2024-05-01,quiet_luxury,US,US,en,quiet luxury,37
+2024-06-01,quiet_luxury,US,US,en,quiet luxury,37
+2024-07-01,quiet_luxury,US,US,en,quiet luxury,32
+2024-08-01,quiet_luxury,US,US,en,quiet luxury,51
+2024-09-01,quiet_luxury,US,US,en,quiet luxury,35
+2024-10-01,quiet_luxury,US,US,en,quiet luxury,29
+2024-11-01,quiet_luxury,US,US,en,quiet luxury,28
+2024-12-01,quiet_luxury,US,US,en,quiet luxury,37
+2025-01-01,quiet_luxury,US,US,en,quiet luxury,35
+2025-02-01,quiet_luxury,US,US,en,quiet luxury,37
+2025-03-01,quiet_luxury,US,US,en,quiet luxury,40
+2025-04-01,quiet_luxury,US,US,en,quiet luxury,61
+2025-05-01,quiet_luxury,US,US,en,quiet luxury,37
+2025-06-01,quiet_luxury,US,US,en,quiet luxury,39
+2025-07-01,quiet_luxury,US,US,en,quiet luxury,38
+2025-08-01,quiet_luxury,US,US,en,quiet luxury,54
+2025-09-01,quiet_luxury,US,US,en,quiet luxury,59
+2025-10-01,quiet_luxury,US,US,en,quiet luxury,44
+2025-11-01,quiet_luxury,US,US,en,quiet luxury,35
+2025-12-01,quiet_luxury,US,US,en,quiet luxury,33
+2026-01-01,quiet_luxury,US,US,en,quiet luxury,47
+2026-02-01,quiet_luxury,US,US,en,quiet luxury,47
+2026-03-01,quiet_luxury,US,US,en,quiet luxury,46
+2026-04-01,quiet_luxury,US,US,en,quiet luxury,34
+2026-05-01,quiet_luxury,US,US,en,quiet luxury,47
+2026-06-01,quiet_luxury,US,US,en,quiet luxury,49
+2023-01-01,quiet_luxury,US,US,en,old money aesthetic,52
+2023-02-01,quiet_luxury,US,US,en,old money aesthetic,60
+2023-03-01,quiet_luxury,US,US,en,old money aesthetic,56
+2023-04-01,quiet_luxury,US,US,en,old money aesthetic,60
+2023-05-01,quiet_luxury,US,US,en,old money aesthetic,64
+2023-06-01,quiet_luxury,US,US,en,old money aesthetic,43
+2023-07-01,quiet_luxury,US,US,en,old money aesthetic,52
+2023-08-01,quiet_luxury,US,US,en,old money aesthetic,48
+2023-09-01,quiet_luxury,US,US,en,old money aesthetic,44
+2023-10-01,quiet_luxury,US,US,en,old money aesthetic,46
+2023-11-01,quiet_luxury,US,US,en,old money aesthetic,63
+2023-12-01,quiet_luxury,US,US,en,old money aesthetic,41
+2024-01-01,quiet_luxury,US,US,en,old money aesthetic,60
+2024-02-01,quiet_luxury,US,US,en,old money aesthetic,38
+2024-03-01,quiet_luxury,US,US,en,old money aesthetic,54
+2024-04-01,quiet_luxury,US,US,en,old money aesthetic,62
+2024-05-01,quiet_luxury,US,US,en,old money aesthetic,68
+2024-06-01,quiet_luxury,US,US,en,old money aesthetic,70
+2024-07-01,quiet_luxury,US,US,en,old money aesthetic,71
+2024-08-01,quiet_luxury,US,US,en,old money aesthetic,59
+2024-09-01,quiet_luxury,US,US,en,old money aesthetic,56
+2024-10-01,quiet_luxury,US,US,en,old money aesthetic,66
+2024-11-01,quiet_luxury,US,US,en,old money aesthetic,54
+2024-12-01,quiet_luxury,US,US,en,old money aesthetic,43
+2025-01-01,quiet_luxury,US,US,en,old money aesthetic,44
+2025-02-01,quiet_luxury,US,US,en,old money aesthetic,47
+2025-03-01,quiet_luxury,US,US,en,old money aesthetic,63
+2025-04-01,quiet_luxury,US,US,en,old money aesthetic,62
+2025-05-01,quiet_luxury,US,US,en,old money aesthetic,71
+2025-06-01,quiet_luxury,US,US,en,old money aesthetic,63
+2025-07-01,quiet_luxury,US,US,en,old money aesthetic,70
+2025-08-01,quiet_luxury,US,US,en,old money aesthetic,76
+2025-09-01,quiet_luxury,US,US,en,old money aesthetic,66
+2025-10-01,quiet_luxury,US,US,en,old money aesthetic,72
+2025-11-01,quiet_luxury,US,US,en,old money aesthetic,59
+2025-12-01,quiet_luxury,US,US,en,old money aesthetic,60
+2026-01-01,quiet_luxury,US,US,en,old money aesthetic,58
+2026-02-01,quiet_luxury,US,US,en,old money aesthetic,49
+2026-03-01,quiet_luxury,US,US,en,old money aesthetic,66
+2026-04-01,quiet_luxury,US,US,en,old money aesthetic,58
+2026-05-01,quiet_luxury,US,US,en,old money aesthetic,65
+2026-06-01,quiet_luxury,US,US,en,old money aesthetic,73
+2023-01-01,quiet_luxury,US,US,en,stealth wealth,36
+2023-02-01,quiet_luxury,US,US,en,stealth wealth,42
+2023-03-01,quiet_luxury,US,US,en,stealth wealth,33
+2023-04-01,quiet_luxury,US,US,en,stealth wealth,37
+2023-05-01,quiet_luxury,US,US,en,stealth wealth,38
+2023-06-01,quiet_luxury,US,US,en,stealth wealth,39
+2023-07-01,quiet_luxury,US,US,en,stealth wealth,48
+2023-08-01,quiet_luxury,US,US,en,stealth wealth,36
+2023-09-01,quiet_luxury,US,US,en,stealth wealth,38
+2023-10-01,quiet_luxury,US,US,en,stealth wealth,49
+2023-11-01,quiet_luxury,US,US,en,stealth wealth,37
+2023-12-01,quiet_luxury,US,US,en,stealth wealth,45
+2024-01-01,quiet_luxury,US,US,en,stealth wealth,35
+2024-02-01,quiet_luxury,US,US,en,stealth wealth,44
+2024-03-01,quiet_luxury,US,US,en,stealth wealth,42
+2024-04-01,quiet_luxury,US,US,en,stealth wealth,49
+2024-05-01,quiet_luxury,US,US,en,stealth wealth,60
+2024-06-01,quiet_luxury,US,US,en,stealth wealth,43
+2024-07-01,quiet_luxury,US,US,en,stealth wealth,58
+2024-08-01,quiet_luxury,US,US,en,stealth wealth,56
+2024-09-01,quiet_luxury,US,US,en,stealth wealth,48
+2024-10-01,quiet_luxury,US,US,en,stealth wealth,40
+2024-11-01,quiet_luxury,US,US,en,stealth wealth,49
+2024-12-01,quiet_luxury,US,US,en,stealth wealth,44
+2025-01-01,quiet_luxury,US,US,en,stealth wealth,49
+2025-02-01,quiet_luxury,US,US,en,stealth wealth,49
+2025-03-01,quiet_luxury,US,US,en,stealth wealth,63
+2025-04-01,quiet_luxury,US,US,en,stealth wealth,53
+2025-05-01,quiet_luxury,US,US,en,stealth wealth,50
+2025-06-01,quiet_luxury,US,US,en,stealth wealth,62
+2025-07-01,quiet_luxury,US,US,en,stealth wealth,64
+2025-08-01,quiet_luxury,US,US,en,stealth wealth,73
+2025-09-01,quiet_luxury,US,US,en,stealth wealth,69
+2025-10-01,quiet_luxury,US,US,en,stealth wealth,64
+2025-11-01,quiet_luxury,US,US,en,stealth wealth,70
+2025-12-01,quiet_luxury,US,US,en,stealth wealth,49
+2026-01-01,quiet_luxury,US,US,en,stealth wealth,52
+2026-02-01,quiet_luxury,US,US,en,stealth wealth,49
+2026-03-01,quiet_luxury,US,US,en,stealth wealth,53
+2026-04-01,quiet_luxury,US,US,en,stealth wealth,48
+2026-05-01,quiet_luxury,US,US,en,stealth wealth,65
+2026-06-01,quiet_luxury,US,US,en,stealth wealth,62
+2023-01-01,quiet_luxury,US,US,en,understated luxury,49
+2023-02-01,quiet_luxury,US,US,en,understated luxury,57
+2023-03-01,quiet_luxury,US,US,en,understated luxury,70
+2023-04-01,quiet_luxury,US,US,en,understated luxury,79
+2023-05-01,quiet_luxury,US,US,en,understated luxury,61
+2023-06-01,quiet_luxury,US,US,en,understated luxury,49
+2023-07-01,quiet_luxury,US,US,en,understated luxury,39
+2023-08-01,quiet_luxury,US,US,en,understated luxury,57
+2023-09-01,quiet_luxury,US,US,en,understated luxury,47
+2023-10-01,quiet_luxury,US,US,en,understated luxury,49
+2023-11-01,quiet_luxury,US,US,en,understated luxury,48
+2023-12-01,quiet_luxury,US,US,en,understated luxury,53
+2024-01-01,quiet_luxury,US,US,en,understated luxury,65
+2024-02-01,quiet_luxury,US,US,en,understated luxury,61
+2024-03-01,quiet_luxury,US,US,en,understated luxury,62
+2024-04-01,quiet_luxury,US,US,en,understated luxury,59
+2024-05-01,quiet_luxury,US,US,en,understated luxury,57
+2024-06-01,quiet_luxury,US,US,en,understated luxury,68
+2024-07-01,quiet_luxury,US,US,en,understated luxury,72
+2024-08-01,quiet_luxury,US,US,en,understated luxury,86
+2024-09-01,quiet_luxury,US,US,en,understated luxury,72
+2024-10-01,quiet_luxury,US,US,en,understated luxury,77
+2024-11-01,quiet_luxury,US,US,en,understated luxury,64
+2024-12-01,quiet_luxury,US,US,en,understated luxury,58
+2025-01-01,quiet_luxury,US,US,en,understated luxury,60
+2025-02-01,quiet_luxury,US,US,en,understated luxury,64
+2025-03-01,quiet_luxury,US,US,en,understated luxury,90
+2025-04-01,quiet_luxury,US,US,en,understated luxury,70
+2025-05-01,quiet_luxury,US,US,en,understated luxury,87
+2025-06-01,quiet_luxury,US,US,en,understated luxury,77
+2025-07-01,quiet_luxury,US,US,en,understated luxury,94
+2025-08-01,quiet_luxury,US,US,en,understated luxury,91
+2025-09-01,quiet_luxury,US,US,en,understated luxury,87
+2025-10-01,quiet_luxury,US,US,en,understated luxury,87
+2025-11-01,quiet_luxury,US,US,en,understated luxury,81
+2025-12-01,quiet_luxury,US,US,en,understated luxury,88
+2026-01-01,quiet_luxury,US,US,en,understated luxury,80
+2026-02-01,quiet_luxury,US,US,en,understated luxury,73
+2026-03-01,quiet_luxury,US,US,en,understated luxury,74
+2026-04-01,quiet_luxury,US,US,en,understated luxury,88
+2026-05-01,quiet_luxury,US,US,en,understated luxury,100
+2026-06-01,quiet_luxury,US,US,en,understated luxury,95
+2023-01-01,quiet_luxury,FR,FR,fr,luxe discret,29
+2023-02-01,quiet_luxury,FR,FR,fr,luxe discret,29
+2023-03-01,quiet_luxury,FR,FR,fr,luxe discret,41
+2023-04-01,quiet_luxury,FR,FR,fr,luxe discret,39
+2023-05-01,quiet_luxury,FR,FR,fr,luxe discret,47
+2023-06-01,quiet_luxury,FR,FR,fr,luxe discret,37
+2023-07-01,quiet_luxury,FR,FR,fr,luxe discret,26
+2023-08-01,quiet_luxury,FR,FR,fr,luxe discret,23
+2023-09-01,quiet_luxury,FR,FR,fr,luxe discret,41
+2023-10-01,quiet_luxury,FR,FR,fr,luxe discret,40
+2023-11-01,quiet_luxury,FR,FR,fr,luxe discret,28
+2023-12-01,quiet_luxury,FR,FR,fr,luxe discret,27
+2024-01-01,quiet_luxury,FR,FR,fr,luxe discret,42
+2024-02-01,quiet_luxury,FR,FR,fr,luxe discret,28
+2024-03-01,quiet_luxury,FR,FR,fr,luxe discret,33
+2024-04-01,quiet_luxury,FR,FR,fr,luxe discret,46
+2024-05-01,quiet_luxury,FR,FR,fr,luxe discret,42
+2024-06-01,quiet_luxury,FR,FR,fr,luxe discret,45
+2024-07-01,quiet_luxury,FR,FR,fr,luxe discret,45
+2024-08-01,quiet_luxury,FR,FR,fr,luxe discret,47
+2024-09-01,quiet_luxury,FR,FR,fr,luxe discret,52
+2024-10-01,quiet_luxury,FR,FR,fr,luxe discret,41
+2024-11-01,quiet_luxury,FR,FR,fr,luxe discret,43
+2024-12-01,quiet_luxury,FR,FR,fr,luxe discret,25
+2025-01-01,quiet_luxury,FR,FR,fr,luxe discret,38
+2025-02-01,quiet_luxury,FR,FR,fr,luxe discret,34
+2025-03-01,quiet_luxury,FR,FR,fr,luxe discret,34
+2025-04-01,quiet_luxury,FR,FR,fr,luxe discret,40
+2025-05-01,quiet_luxury,FR,FR,fr,luxe discret,47
+2025-06-01,quiet_luxury,FR,FR,fr,luxe discret,58
+2025-07-01,quiet_luxury,FR,FR,fr,luxe discret,45
+2025-08-01,quiet_luxury,FR,FR,fr,luxe discret,55
+2025-09-01,quiet_luxury,FR,FR,fr,luxe discret,52
+2025-10-01,quiet_luxury,FR,FR,fr,luxe discret,51
+2025-11-01,quiet_luxury,FR,FR,fr,luxe discret,58
+2025-12-01,quiet_luxury,FR,FR,fr,luxe discret,53
+2026-01-01,quiet_luxury,FR,FR,fr,luxe discret,57
+2026-02-01,quiet_luxury,FR,FR,fr,luxe discret,46
+2026-03-01,quiet_luxury,FR,FR,fr,luxe discret,43
+2026-04-01,quiet_luxury,FR,FR,fr,luxe discret,48
+2026-05-01,quiet_luxury,FR,FR,fr,luxe discret,54
+2026-06-01,quiet_luxury,FR,FR,fr,luxe discret,57
+2023-01-01,quiet_luxury,FR,FR,fr,style old money,56
+2023-02-01,quiet_luxury,FR,FR,fr,style old money,71
+2023-03-01,quiet_luxury,FR,FR,fr,style old money,70
+2023-04-01,quiet_luxury,FR,FR,fr,style old money,57
+2023-05-01,quiet_luxury,FR,FR,fr,style old money,60
+2023-06-01,quiet_luxury,FR,FR,fr,style old money,53
+2023-07-01,quiet_luxury,FR,FR,fr,style old money,56
+2023-08-01,quiet_luxury,FR,FR,fr,style old money,58
+2023-09-01,quiet_luxury,FR,FR,fr,style old money,60
+2023-10-01,quiet_luxury,FR,FR,fr,style old money,49
+2023-11-01,quiet_luxury,FR,FR,fr,style old money,48
+2023-12-01,quiet_luxury,FR,FR,fr,style old money,41
+2024-01-01,quiet_luxury,FR,FR,fr,style old money,53
+2024-02-01,quiet_luxury,FR,FR,fr,style old money,51
+2024-03-01,quiet_luxury,FR,FR,fr,style old money,57
+2024-04-01,quiet_luxury,FR,FR,fr,style old money,58
+2024-05-01,quiet_luxury,FR,FR,fr,style old money,64
+2024-06-01,quiet_luxury,FR,FR,fr,style old money,56
+2024-07-01,quiet_luxury,FR,FR,fr,style old money,58
+2024-08-01,quiet_luxury,FR,FR,fr,style old money,75
+2024-09-01,quiet_luxury,FR,FR,fr,style old money,55
+2024-10-01,quiet_luxury,FR,FR,fr,style old money,53
+2024-11-01,quiet_luxury,FR,FR,fr,style old money,66
+2024-12-01,quiet_luxury,FR,FR,fr,style old money,70
+2025-01-01,quiet_luxury,FR,FR,fr,style old money,49
+2025-02-01,quiet_luxury,FR,FR,fr,style old money,54
+2025-03-01,quiet_luxury,FR,FR,fr,style old money,60
+2025-04-01,quiet_luxury,FR,FR,fr,style old money,70
+2025-05-01,quiet_luxury,FR,FR,fr,style old money,59
+2025-06-01,quiet_luxury,FR,FR,fr,style old money,65
+2025-07-01,quiet_luxury,FR,FR,fr,style old money,72
+2025-08-01,quiet_luxury,FR,FR,fr,style old money,71
+2025-09-01,quiet_luxury,FR,FR,fr,style old money,66
+2025-10-01,quiet_luxury,FR,FR,fr,style old money,66
+2025-11-01,quiet_luxury,FR,FR,fr,style old money,57
+2025-12-01,quiet_luxury,FR,FR,fr,style old money,60
+2026-01-01,quiet_luxury,FR,FR,fr,style old money,58
+2026-02-01,quiet_luxury,FR,FR,fr,style old money,60
+2026-03-01,quiet_luxury,FR,FR,fr,style old money,56
+2026-04-01,quiet_luxury,FR,FR,fr,style old money,63
+2026-05-01,quiet_luxury,FR,FR,fr,style old money,68
+2026-06-01,quiet_luxury,FR,FR,fr,style old money,66
+2023-01-01,quiet_luxury,FR,FR,fr,luxe silencieux,45
+2023-02-01,quiet_luxury,FR,FR,fr,luxe silencieux,60
+2023-03-01,quiet_luxury,FR,FR,fr,luxe silencieux,58
+2023-04-01,quiet_luxury,FR,FR,fr,luxe silencieux,84
+2023-05-01,quiet_luxury,FR,FR,fr,luxe silencieux,79
+2023-06-01,quiet_luxury,FR,FR,fr,luxe silencieux,65
+2023-07-01,quiet_luxury,FR,FR,fr,luxe silencieux,51
+2023-08-01,quiet_luxury,FR,FR,fr,luxe silencieux,45
+2023-09-01,quiet_luxury,FR,FR,fr,luxe silencieux,68
+2023-10-01,quiet_luxury,FR,FR,fr,luxe silencieux,57
+2023-11-01,quiet_luxury,FR,FR,fr,luxe silencieux,59
+2023-12-01,quiet_luxury,FR,FR,fr,luxe silencieux,35
+2024-01-01,quiet_luxury,FR,FR,fr,luxe silencieux,67
+2024-02-01,quiet_luxury,FR,FR,fr,luxe silencieux,65
+2024-03-01,quiet_luxury,FR,FR,fr,luxe silencieux,51
+2024-04-01,quiet_luxury,FR,FR,fr,luxe silencieux,61
+2024-05-01,quiet_luxury,FR,FR,fr,luxe silencieux,72
+2024-06-01,quiet_luxury,FR,FR,fr,luxe silencieux,71
+2024-07-01,quiet_luxury,FR,FR,fr,luxe silencieux,67
+2024-08-01,quiet_luxury,FR,FR,fr,luxe silencieux,68
+2024-09-01,quiet_luxury,FR,FR,fr,luxe silencieux,65
+2024-10-01,quiet_luxury,FR,FR,fr,luxe silencieux,67
+2024-11-01,quiet_luxury,FR,FR,fr,luxe silencieux,80
+2024-12-01,quiet_luxury,FR,FR,fr,luxe silencieux,35
+2025-01-01,quiet_luxury,FR,FR,fr,luxe silencieux,60
+2025-02-01,quiet_luxury,FR,FR,fr,luxe silencieux,66
+2025-03-01,quiet_luxury,FR,FR,fr,luxe silencieux,70
+2025-04-01,quiet_luxury,FR,FR,fr,luxe silencieux,66
+2025-05-01,quiet_luxury,FR,FR,fr,luxe silencieux,54
+2025-06-01,quiet_luxury,FR,FR,fr,luxe silencieux,80
+2025-07-01,quiet_luxury,FR,FR,fr,luxe silencieux,98
+2025-08-01,quiet_luxury,FR,FR,fr,luxe silencieux,63
+2025-09-01,quiet_luxury,FR,FR,fr,luxe silencieux,89
+2025-10-01,quiet_luxury,FR,FR,fr,luxe silencieux,74
+2025-11-01,quiet_luxury,FR,FR,fr,luxe silencieux,75
+2025-12-01,quiet_luxury,FR,FR,fr,luxe silencieux,62
+2026-01-01,quiet_luxury,FR,FR,fr,luxe silencieux,69
+2026-02-01,quiet_luxury,FR,FR,fr,luxe silencieux,86
+2026-03-01,quiet_luxury,FR,FR,fr,luxe silencieux,79
+2026-04-01,quiet_luxury,FR,FR,fr,luxe silencieux,93
+2026-05-01,quiet_luxury,FR,FR,fr,luxe silencieux,90
+2026-06-01,quiet_luxury,FR,FR,fr,luxe silencieux,85
+2023-01-01,quiet_luxury,KR,KR,ko,올드머니룩,40
+2023-02-01,quiet_luxury,KR,KR,ko,올드머니룩,33
+2023-03-01,quiet_luxury,KR,KR,ko,올드머니룩,39
+2023-04-01,quiet_luxury,KR,KR,ko,올드머니룩,35
+2023-05-01,quiet_luxury,KR,KR,ko,올드머니룩,51
+2023-06-01,quiet_luxury,KR,KR,ko,올드머니룩,31
+2023-07-01,quiet_luxury,KR,KR,ko,올드머니룩,48
+2023-08-01,quiet_luxury,KR,KR,ko,올드머니룩,37
+2023-09-01,quiet_luxury,KR,KR,ko,올드머니룩,48
+2023-10-01,quiet_luxury,KR,KR,ko,올드머니룩,43
+2023-11-01,quiet_luxury,KR,KR,ko,올드머니룩,53
+2023-12-01,quiet_luxury,KR,KR,ko,올드머니룩,44
+2024-01-01,quiet_luxury,KR,KR,ko,올드머니룩,26
+2024-02-01,quiet_luxury,KR,KR,ko,올드머니룩,43
+2024-03-01,quiet_luxury,KR,KR,ko,올드머니룩,36
+2024-04-01,quiet_luxury,KR,KR,ko,올드머니룩,46
+2024-05-01,quiet_luxury,KR,KR,ko,올드머니룩,67
+2024-06-01,quiet_luxury,KR,KR,ko,올드머니룩,61
+2024-07-01,quiet_luxury,KR,KR,ko,올드머니룩,49
+2024-08-01,quiet_luxury,KR,KR,ko,올드머니룩,46
+2024-09-01,quiet_luxury,KR,KR,ko,올드머니룩,54
+2024-10-01,quiet_luxury,KR,KR,ko,올드머니룩,41
+2024-11-01,quiet_luxury,KR,KR,ko,올드머니룩,44
+2024-12-01,quiet_luxury,KR,KR,ko,올드머니룩,53
+2025-01-01,quiet_luxury,KR,KR,ko,올드머니룩,61
+2025-02-01,quiet_luxury,KR,KR,ko,올드머니룩,58
+2025-03-01,quiet_luxury,KR,KR,ko,올드머니룩,34
+2025-04-01,quiet_luxury,KR,KR,ko,올드머니룩,61
+2025-05-01,quiet_luxury,KR,KR,ko,올드머니룩,63
+2025-06-01,quiet_luxury,KR,KR,ko,올드머니룩,69
+2025-07-01,quiet_luxury,KR,KR,ko,올드머니룩,83
+2025-08-01,quiet_luxury,KR,KR,ko,올드머니룩,50
+2025-09-01,quiet_luxury,KR,KR,ko,올드머니룩,64
+2025-10-01,quiet_luxury,KR,KR,ko,올드머니룩,74
+2025-11-01,quiet_luxury,KR,KR,ko,올드머니룩,52
+2025-12-01,quiet_luxury,KR,KR,ko,올드머니룩,79
+2026-01-01,quiet_luxury,KR,KR,ko,올드머니룩,67
+2026-02-01,quiet_luxury,KR,KR,ko,올드머니룩,72
+2026-03-01,quiet_luxury,KR,KR,ko,올드머니룩,59
+2026-04-01,quiet_luxury,KR,KR,ko,올드머니룩,74
+2026-05-01,quiet_luxury,KR,KR,ko,올드머니룩,80
+2026-06-01,quiet_luxury,KR,KR,ko,올드머니룩,76
+2023-01-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,51
+2023-02-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,54
+2023-03-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,60
+2023-04-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,66
+2023-05-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,52
+2023-06-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,58
+2023-07-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,67
+2023-08-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,49
+2023-09-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,47
+2023-10-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,52
+2023-11-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,56
+2023-12-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,51
+2024-01-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,62
+2024-02-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,62
+2024-03-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,65
+2024-04-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,66
+2024-05-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,80
+2024-06-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,64
+2024-07-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,51
+2024-08-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,75
+2024-09-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,59
+2024-10-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,60
+2024-11-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,67
+2024-12-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,45
+2025-01-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,48
+2025-02-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,46
+2025-03-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,54
+2025-04-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,66
+2025-05-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,69
+2025-06-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,70
+2025-07-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,61
+2025-08-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,55
+2025-09-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,71
+2025-10-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,66
+2025-11-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,70
+2025-12-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,69
+2026-01-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,64
+2026-02-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,67
+2026-03-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,64
+2026-04-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,67
+2026-05-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,61
+2026-06-01,quiet_luxury,KR,KR,ko,조용한 럭셔리,68
+2023-01-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,48
+2023-02-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,57
+2023-03-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,55
+2023-04-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,58
+2023-05-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,64
+2023-06-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,48
+2023-07-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,51
+2023-08-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,48
+2023-09-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,41
+2023-10-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,50
+2023-11-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,58
+2023-12-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,53
+2024-01-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,58
+2024-02-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,67
+2024-03-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,72
+2024-04-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,67
+2024-05-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,78
+2024-06-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,73
+2024-07-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,68
+2024-08-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,68
+2024-09-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,62
+2024-10-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,63
+2024-11-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,65
+2024-12-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,71
+2025-01-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,76
+2025-02-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,61
+2025-03-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,73
+2025-04-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,69
+2025-05-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,81
+2025-06-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,81
+2025-07-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,74
+2025-08-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,90
+2025-09-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,82
+2025-10-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,81
+2025-11-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,77
+2025-12-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,77
+2026-01-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,82
+2026-02-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,78
+2026-03-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,82
+2026-04-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,84
+2026-05-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,92
+2026-06-01,quiet_luxury,KR,KR,ko,미니멀 럭셔리,87
+2023-01-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,46
+2023-02-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,43
+2023-03-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,41
+2023-04-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,48
+2023-05-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,63
+2023-06-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,64
+2023-07-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,44
+2023-08-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,43
+2023-09-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,50
+2023-10-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,31
+2023-11-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,42
+2023-12-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,40
+2024-01-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,45
+2024-02-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,38
+2024-03-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,34
+2024-04-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,33
+2024-05-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,45
+2024-06-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,52
+2024-07-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,54
+2024-08-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,74
+2024-09-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,65
+2024-10-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,44
+2024-11-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,54
+2024-12-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,47
+2025-01-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,48
+2025-02-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,54
+2025-03-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,61
+2025-04-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,55
+2025-05-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,72
+2025-06-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,55
+2025-07-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,68
+2025-08-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,93
+2025-09-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,71
+2025-10-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,81
+2025-11-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,67
+2025-12-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,69
+2026-01-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,62
+2026-02-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,61
+2026-03-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,56
+2026-04-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,69
+2026-05-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,60
+2026-06-01,quiet_luxury,JP,JP,ja,クワイエットラグジュアリー,78
+2023-01-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,42
+2023-02-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,49
+2023-03-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,48
+2023-04-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,56
+2023-05-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,45
+2023-06-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,51
+2023-07-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,42
+2023-08-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,43
+2023-09-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,54
+2023-10-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,51
+2023-11-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,44
+2023-12-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,42
+2024-01-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,38
+2024-02-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,52
+2024-03-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,69
+2024-04-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,64
+2024-05-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,62
+2024-06-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,68
+2024-07-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,60
+2024-08-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,65
+2024-09-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,65
+2024-10-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,62
+2024-11-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,65
+2024-12-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,62
+2025-01-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,64
+2025-02-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,60
+2025-03-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,70
+2025-04-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,77
+2025-05-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,69
+2025-06-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,72
+2025-07-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,85
+2025-08-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,79
+2025-09-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,87
+2025-10-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,77
+2025-11-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,84
+2025-12-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,77
+2026-01-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,76
+2026-02-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,81
+2026-03-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,74
+2026-04-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,73
+2026-05-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,79
+2026-06-01,quiet_luxury,JP,JP,ja,オールドマネー ファッション,86
+2023-01-01,quiet_luxury,JP,JP,ja,上品カジュアル,54
+2023-02-01,quiet_luxury,JP,JP,ja,上品カジュアル,29
+2023-03-01,quiet_luxury,JP,JP,ja,上品カジュアル,44
+2023-04-01,quiet_luxury,JP,JP,ja,上品カジュアル,39
+2023-05-01,quiet_luxury,JP,JP,ja,上品カジュアル,46
+2023-06-01,quiet_luxury,JP,JP,ja,上品カジュアル,54
+2023-07-01,quiet_luxury,JP,JP,ja,上品カジュアル,48
+2023-08-01,quiet_luxury,JP,JP,ja,上品カジュアル,46
+2023-09-01,quiet_luxury,JP,JP,ja,上品カジュアル,44
+2023-10-01,quiet_luxury,JP,JP,ja,上品カジュアル,46
+2023-11-01,quiet_luxury,JP,JP,ja,上品カジュアル,36
+2023-12-01,quiet_luxury,JP,JP,ja,上品カジュアル,50
+2024-01-01,quiet_luxury,JP,JP,ja,上品カジュアル,51
+2024-02-01,quiet_luxury,JP,JP,ja,上品カジュアル,52
+2024-03-01,quiet_luxury,JP,JP,ja,上品カジュアル,57
+2024-04-01,quiet_luxury,JP,JP,ja,上品カジュアル,57
+2024-05-01,quiet_luxury,JP,JP,ja,上品カジュアル,74
+2024-06-01,quiet_luxury,JP,JP,ja,上品カジュアル,58
+2024-07-01,quiet_luxury,JP,JP,ja,上品カジュアル,56
+2024-08-01,quiet_luxury,JP,JP,ja,上品カジュアル,51
+2024-09-01,quiet_luxury,JP,JP,ja,上品カジュアル,47
+2024-10-01,quiet_luxury,JP,JP,ja,上品カジュアル,43
+2024-11-01,quiet_luxury,JP,JP,ja,上品カジュアル,44
+2024-12-01,quiet_luxury,JP,JP,ja,上品カジュアル,49
+2025-01-01,quiet_luxury,JP,JP,ja,上品カジュアル,52
+2025-02-01,quiet_luxury,JP,JP,ja,上品カジュアル,51
+2025-03-01,quiet_luxury,JP,JP,ja,上品カジュアル,47
+2025-04-01,quiet_luxury,JP,JP,ja,上品カジュアル,63
+2025-05-01,quiet_luxury,JP,JP,ja,上品カジュアル,65
+2025-06-01,quiet_luxury,JP,JP,ja,上品カジュアル,61
+2025-07-01,quiet_luxury,JP,JP,ja,上品カジュアル,59
+2025-08-01,quiet_luxury,JP,JP,ja,上品カジュアル,69
+2025-09-01,quiet_luxury,JP,JP,ja,上品カジュアル,66
+2025-10-01,quiet_luxury,JP,JP,ja,上品カジュアル,51
+2025-11-01,quiet_luxury,JP,JP,ja,上品カジュアル,60
+2025-12-01,quiet_luxury,JP,JP,ja,上品カジュアル,60
+2026-01-01,quiet_luxury,JP,JP,ja,上品カジュアル,49
+2026-02-01,quiet_luxury,JP,JP,ja,上品カジュアル,57
+2026-03-01,quiet_luxury,JP,JP,ja,上品カジュアル,45
+2026-04-01,quiet_luxury,JP,JP,ja,上品カジュアル,68
+2026-05-01,quiet_luxury,JP,JP,ja,上品カジュアル,70
+2026-06-01,quiet_luxury,JP,JP,ja,上品カジュアル,61

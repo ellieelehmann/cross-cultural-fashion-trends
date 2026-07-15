@@ -1,0 +1,21 @@
+pandas>=2.2
+numpy>=1.26
+pyyaml>=6.0
+requests>=2.31
+scikit-learn>=1.4
+pyarrow>=15.0
+
+# NLP
+langdetect>=1.0.9
+transformers>=4.41
+torch>=2.2
+sentence-transformers>=2.7
+umap-learn>=0.5
+
+# Data sources
+pytrends>=4.9
+feedparser>=6.0
+
+# Dashboard
+streamlit>=1.35
+plotly>=5.20
